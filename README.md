@@ -7,7 +7,6 @@ This project allows an user to generate a random password based on their choice 
 ```
 As an employee with access to sensitive data, he or she would like to randomly generate a password that meets certain criteria. This pass generator should be able to provide strong password under the criteria and perform high security.
 ```
-- 
 
 ## Tasks Completed
 
@@ -28,9 +27,9 @@ The following tasks were completed to meet the client's criteria:
 
 ## Links
 
-Deployed Website Link: [https://rhwlffk1028.github.io/code-refactoring-for-client/](https://rhwlffk1028.github.io/code-refactoring-for-client/)
+Deployed Website Link: [https://rhwlffk1028.github.io/password-generator/](https://rhwlffk1028.github.io/password-generator/)
 
-Code Repository Link: [https://github.com/rhwlffk1028/code-refactoring-for-client/](https://github.com/rhwlffk1028/code-refactoring-for-client/)
+Code Repository Link: [https://github.com/rhwlffk1028/password-generator](https://github.com/rhwlffk1028/password-generator)
 
 > **Note**: Use the first link above to access the website. By clicking the deployed webiste link, you will be directed to the web browser and it will be viewable.<br>
 > **Note**: Use the second link above to access the repository where the html, css, and image files are live.
