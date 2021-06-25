@@ -23,7 +23,7 @@ The following tasks were completed to meet the client's criteria:
 
 ## Screenshot of the Website
 
-![screenshot of index.html](./assets/screenshot-of-full-page.png)
+![screenshot of the website](./Assets/screenshot-of-full-page.png)
 
 ## Links
 
